@@ -21,24 +21,22 @@ export default function HomePage() {
       <section>
         <h2>now</h2>
         <div className="card soft">
-          <div className="kv">
-            <dl className="kv">
-              <dt>phase</dt>
-              <dd>{activeMilestone ? activeMilestone.label : "—"}</dd>
-              <dt>next</dt>
-              <dd>
-                {nextMilestone ? (
-                  <>
-                    {nextMilestone.date} — {nextMilestone.label}
-                  </>
-                ) : (
-                  "—"
-                )}
-              </dd>
-              <dt>open issues</dt>
-              <dd>{openDiscussions.length} 件のディスカッション</dd>
-            </dl>
-          </div>
+          <dl className="kv">
+            <dt>phase</dt>
+            <dd>{activeMilestone ? activeMilestone.label : "—"}</dd>
+            <dt>next</dt>
+            <dd>
+              {nextMilestone ? (
+                <>
+                  {nextMilestone.date} — {nextMilestone.label}
+                </>
+              ) : (
+                "—"
+              )}
+            </dd>
+            <dt>open issues</dt>
+            <dd>{openDiscussions.length} 件のディスカッション</dd>
+          </dl>
         </div>
       </section>
 
