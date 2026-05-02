@@ -3,7 +3,7 @@ export const exhibition = {
   dates: "2026-06-06 〜 2026-06-07",
   venue: "Hot Space（入谷）",
   budget: "約30万円（10万×3人）",
-  contact: "前川さん（メッセンジャーで連絡 — 山岸対応）",
+  contact: "前川さん（メッセンジャーで連絡 — 山岸さん対応）",
   spaceLayout: [
     {
       area: "入口壁面",

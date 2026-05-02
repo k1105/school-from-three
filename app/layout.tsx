@@ -21,7 +21,7 @@ export default function RootLayout({
             <div className="brand">SCHOOL FROM THREE</div>
             <h1>sf3 / progress dashboard</h1>
             <p className="tagline">
-              3人（山岸・森島・横澤）で始める、3年間の自走的な学校。
+              3人（山岸さん・森島さん・横澤さん）で始める、3年間の自走的な学校。
             </p>
             <nav className="primary">
               <Link href="/">overview</Link>

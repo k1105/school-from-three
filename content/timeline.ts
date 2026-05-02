@@ -33,7 +33,7 @@ export const milestones: Milestone[] = [
     date: "2026-04-10",
     label: "会場決定 → Hot Space",
     status: "done",
-    detail: "前川さんと連絡（山岸対応）。",
+    detail: "前川さんと連絡（山岸さん対応）。",
   },
   {
     date: "2026-04-15",

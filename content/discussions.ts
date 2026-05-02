@@ -28,7 +28,7 @@ export const discussions: Discussion[] = [
       },
       {
         speaker: "未確認",
-        text: "森島・横澤からの v2 へのフィードバックは未記録。",
+        text: "森島さん・横澤さんからの v2 へのフィードバックは未記録。",
       },
     ],
     questionsLeft: [
@@ -50,7 +50,7 @@ export const discussions: Discussion[] = [
       },
       {
         speaker: "未確認",
-        text: "森島・横澤の〇〇学は本人からの更新待ち。",
+        text: "森島さん・横澤さんの〇〇学は本人からの更新待ち。",
       },
     ],
     questionsLeft: [
@@ -102,11 +102,11 @@ export const discussions: Discussion[] = [
       },
       {
         speaker: "未確認",
-        text: "森島・横澤からのフィードバックはこれから。",
+        text: "森島さん・横澤さんからのフィードバックはこれから。",
       },
     ],
     questionsLeft: [
-      "森島・横澤それぞれが個人チャンネルで望む距離感は？",
+      "森島さん・横澤さんそれぞれが個人チャンネルで望む距離感は？",
     ],
   },
 ];
