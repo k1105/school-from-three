@@ -5,7 +5,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "School from Three",
   description:
-    "電通の3人で始める3年間の自走的な学校。ディスカッションとプロジェクト進行のダッシュボード。",
+    "3人で始める3年間の自走的な学校。ディスカッションとプロジェクト進行のダッシュボード。",
 };
 
 export default function RootLayout({
@@ -21,7 +21,7 @@ export default function RootLayout({
             <div className="brand">SCHOOL FROM THREE</div>
             <h1>sf3 / progress dashboard</h1>
             <p className="tagline">
-              電通の3人（山岸・森島・横澤）で始める、3年間の自走的な学校。
+              3人（山岸・森島・横澤）で始める、3年間の自走的な学校。
             </p>
             <nav className="primary">
               <Link href="/">overview</Link>

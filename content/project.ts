@@ -1,7 +1,7 @@
 export const project = {
   name: "School from Three",
   shortName: "sf3",
-  tagline: "電通の3人で始める、3年間の自走的な学校。",
+  tagline: "3人で始める、3年間の自走的な学校。",
   hypothesis:
     "「学校」というフレームが社会人の自主制作を最大化するのではないか。",
   bigQuestion: "学校って、どうやってつくるの？",
